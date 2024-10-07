@@ -7,7 +7,7 @@
 # DOMAIN-SUFFIX: 15
 # TOTAL: 28
 payload:
-  - DOMAIN-KEYWORD,zaobao
+  - DOMAIN-KEYWORD,zaobao.com.sg
   - DOMAIN-KEYWORD,zbstatic
   - DOMAIN-KEYWORD,sphlabs
   - DOMAIN-SUFFIX,sphdigital.com
