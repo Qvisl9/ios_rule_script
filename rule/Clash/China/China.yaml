@@ -9,7 +9,7 @@
 # IP-CIDR6: 4
 # TOTAL: 3720
 payload:
-  - DOMAIN-SUFFIX,nodeseek.com
+  - DOMAIN-KEYWORD,nodeseek
   - DOMAIN-KEYWORD,.tmall.com
   - DOMAIN-KEYWORD,alicdn
   - DOMAIN-KEYWORD,alipay
