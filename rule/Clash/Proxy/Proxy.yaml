@@ -9,6 +9,7 @@
 # IP-CIDR6: 4
 # TOTAL: 6049
 payload:
+  - DOMAIN-SUFFIX,nodeseek.com
   - DOMAIN-SUFFIX,freevod.org
   - DOMAIN-SUFFIX,bulianglin.com
   - DOMAIN-SUFFIX,www.v2ray-agent.com
