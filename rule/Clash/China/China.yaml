@@ -40,3 +40,5 @@ payload:
   - IP-CIDR6,2a0b:b582::/48
   - IP-CIDR6,2a0b:b583::/48
   - DOMAIN-KEYWORD,wechat
+    - DOMAIN-KEYWORD,mtalk
+  
