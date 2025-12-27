@@ -1,3 +1,5 @@
+# HK.yaml
+rules:
   - DOMAIN-KEYWORD,zbstatic
   - DOMAIN-KEYWORD,sphlabs
   - DOMAIN-SUFFIX,sphdigital.com
